@@ -1,5 +1,5 @@
 [{
-    "name": "pioreactor-air-bubble",
+    "name": "pioreactor-air-bubbler",
     "homepage": "https://github.com/Pioreactor/pioreactor-air-bubbler",
     "description": "Add an air-pump / bubbler to your Pioreactor. This pump can run continuously, or if OD reading is running, will stop during a reading."
   },
