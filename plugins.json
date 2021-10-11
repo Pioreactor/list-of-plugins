@@ -8,7 +8,7 @@
     "name": "pioreactor-custom-dosing-automation",
     "homepage": "https://github.com/Pioreactor/pioreactor_custom_dosing_automation",
     "description": "Example of adding a new dosing automation"
-  }
+  },
  
   {
     "name": "pioreactor-logs2slack",
