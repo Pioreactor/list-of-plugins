@@ -14,5 +14,10 @@
 		"name": "pioreactor-logs2slack",
 		"homepage": "https://github.com/Pioreactor/pioreactor-logs2slack",
 		"description": "Publish logs to your Slack workspace"
+	},
+ 	{
+ 		"name": "pioreactor-relay-plugin",
+ 		"homepage": "https//github.com/kellytr/pioreactor-relay-plugin",
+ 		"description": "Turn your add-on (light source, pump) on or off."
 	}
 ]
