@@ -17,7 +17,7 @@
 	},
  	{
  		"name": "pioreactor-relay-plugin",
- 		"homepage": "https//github.com/kellytr/pioreactor-relay-plugin",
+ 		"homepage": "https://github.com/kellytr/pioreactor-relay-plugin",
  		"description": "Turn your add-on (light source, pump) on or off."
 	}
 ]
