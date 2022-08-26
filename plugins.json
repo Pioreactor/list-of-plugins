@@ -14,7 +14,7 @@
  		"description": "Turn your add-on (light source, pump) on or off."
 	},
 	{
- 		"name": "pioreactor-led-calibration-plugin",
+ 		"name": "led-calibration-plugin",
  		"homepage": "https://github.com/kellytr/pioreactor-led-calibration-plugin",
  		"description": "Calibrate your LEDs using an external light probe."
 	}
