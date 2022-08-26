@@ -3,13 +3,6 @@
 		"homepage": "https://github.com/Pioreactor/pioreactor-air-bubbler",
 		"description": "Add an air-pump / bubbler to your Pioreactor. This pump can run continuously, or if OD reading is running, will stop during a reading."
 	},
-
-	{
-		"name": "pioreactor-custom-dosing-automation",
-		"homepage": "https://github.com/Pioreactor/pioreactor_custom_dosing_automation",
-		"description": "Example of adding a new dosing automation"
-	},
-
 	{
 		"name": "pioreactor-logs2slack",
 		"homepage": "https://github.com/Pioreactor/pioreactor-logs2slack",
