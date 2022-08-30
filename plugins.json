@@ -11,11 +11,11 @@
  	{
  		"name": "pioreactor-relay-plugin",
  		"homepage": "https://github.com/kellytr/pioreactor-relay-plugin",
- 		"description": "Turn your add-on (light source, pump) on or off."
+ 		"description": "Turn your hardware add-on (light source, pinch-valve, pump, etc.) on or off from the UI or programmatically,"
 	},
 	{
  		"name": "led-calibration-plugin",
  		"homepage": "https://github.com/kellytr/pioreactor-led-calibration-plugin",
- 		"description": "Calibrate your LEDs using an external light probe."
+ 		"description": "Calibrate your LEDs using an external light probe. Also comes with an Day/Night LED automation to use your new calibrated LEDs."
 	}
 ]
