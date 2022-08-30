@@ -6,12 +6,12 @@
 	{
 		"name": "pioreactor-logs2slack",
 		"homepage": "https://github.com/Pioreactor/pioreactor-logs2slack",
-		"description": "Publish logs to your Slack workspace"
+		"description": "Publish logs to your Slack workspace."
 	},
  	{
  		"name": "pioreactor-relay-plugin",
  		"homepage": "https://github.com/kellytr/pioreactor-relay-plugin",
- 		"description": "Turn your hardware add-on (light source, pinch-valve, pump, etc.) on or off from the UI or programmatically,"
+ 		"description": "Turn your hardware add-on (light source, pinch-valve, pump, etc.) on or off from the UI or programmatically."
 	},
 	{
  		"name": "led-calibration-plugin",
