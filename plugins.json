@@ -21,11 +21,11 @@
  	{
  		"name": "co2-reading-plugin",
  		"homepage": "https://github.com/Pioreactor/co2-reading-plugin",
- 		"description": "Retrieve readings from an attached Adafruit SCD30 or SCD40/SCD41 sensor."
+ 		"description": "Retrieve CO2, temperature, and humidity readings from an attached Adafruit SCD30 or SCD40/SCD41 sensor."
 	},
  	{
  		"name": "spectrometer-reading-plugin",
- 		"homepage": "https://github.com/Pioreactor/spectrometer-plugin",
- 		"description": "Retrieve readings from an attached Adafruit AS7341 sensor."
+ 		"homepage": "https://github.com/Pioreactor/spectrometer-reading-plugin",
+ 		"description": "Retrieve 415nm, 445nm, 480nm, 515nm, 555nm, 590nm, 630nm, and 680nm readings from an attached Adafruit AS7341 sensor."
 	}
 ]
