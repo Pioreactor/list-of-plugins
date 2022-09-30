@@ -17,5 +17,15 @@
  		"name": "led-calibration-plugin",
  		"homepage": "https://github.com/kellytr/pioreactor-led-calibration-plugin",
  		"description": "Calibrate your LEDs using an external light probe. Also comes with an Day/Night LED automation to use your new calibrated LEDs."
+	},
+ 	{
+ 		"name": "co2-reading-plugin",
+ 		"homepage": "https://github.com/Pioreactor/co2-reading-plugin",
+ 		"description": "Retrieve readings from an attached Adafruit SCD30 or SCD40/SCD41 sensor."
+	},
+ 	{
+ 		"name": "spectrometer-reading-plugin",
+ 		"homepage": "https://github.com/Pioreactor/spectrometer-plugin",
+ 		"description": "Retrieve readings from an attached Adafruit AS7341 sensor."
 	}
 ]
