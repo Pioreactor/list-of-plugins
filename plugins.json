@@ -27,5 +27,10 @@
  		"name": "spectrometer-reading-plugin",
  		"homepage": "https://github.com/Pioreactor/spectrometer-reading-plugin",
  		"description": "Retrieve 415nm, 445nm, 480nm, 515nm, 555nm, 590nm, 630nm, and 680nm readings from an attached Adafruit AS7341 sensor."
+	},
+ 	{
+ 		"name": "pioled_display_plugin",
+ 		"homepage": "https://github.com/Pioreactor/pioled-display-plugin",
+ 		"description": "Display growth rate, normalized OD, and temperature for each Pioreactor using the Adafruit PiOLED display."
 	}
 ]
