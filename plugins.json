@@ -1,5 +1,5 @@
 [{
-		"name": "pioreactor-air-bubbler",
+		"name": "pioreactor_air_bubbler",
 		"homepage": "https://github.com/Pioreactor/pioreactor-air-bubbler",
 		"description": "Add an air-pump / bubbler to your Pioreactor. This pump can run continuously, or if OD reading is running, will stop during a reading."
 	},
@@ -9,22 +9,22 @@
 		"description": "Publish logs to your Slack workspace."
 	},
  	{
- 		"name": "pioreactor-relay-plugin",
+ 		"name": "pioreactor_relay_plugin",
  		"homepage": "https://github.com/camdavidsonpilon/pioreactor-relay-plugin",
  		"description": "Turn your hardware add-on (light source, pinch-valve, pump, etc.) on or off from the UI or programmatically."
 	},
 	{
- 		"name": "led-calibration-plugin",
+ 		"name": "led_calibration_plugin",
  		"homepage": "https://github.com/pioreactor/pioreactor-led-calibration-plugin",
  		"description": "Calibrate your LEDs using an external light probe. Also comes with an Day/Night LED automation to use your new calibrated LEDs."
 	},
  	{
- 		"name": "co2-reading-plugin",
+ 		"name": "co2_reading_plugin",
  		"homepage": "https://github.com/Pioreactor/co2-reading-plugin",
  		"description": "Retrieve CO2, temperature, and humidity readings from an attached Adafruit SCD30 or SCD40/SCD41 sensor."
 	},
  	{
- 		"name": "spectrometer-reading-plugin",
+ 		"name": "spectrometer_reading_plugin",
  		"homepage": "https://github.com/Pioreactor/spectrometer-reading-plugin",
  		"description": "Retrieve 415nm, 445nm, 480nm, 515nm, 555nm, 590nm, 630nm, and 680nm readings from an attached Adafruit AS7341 sensor."
 	},
