@@ -32,5 +32,10 @@
  		"name": "pioled-display-plugin",
  		"homepage": "https://github.com/Pioreactor/pioled-display-plugin",
  		"description": "Display growth rate, normalized OD, and temperature for each Pioreactor using the Adafruit PiOLED display."
+	},
+ 	{
+ 		"name": "pioreactor-basic-auth-for-ui",
+ 		"homepage": "https://github.com/Pioreactor/pioreactor-basic-auth-for-ui",
+ 		"description": "Adding basic auth to the Pioreactor UI."
 	}
 ]
