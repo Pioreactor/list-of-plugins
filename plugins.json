@@ -37,5 +37,10 @@
  		"name": "pioreactor-basic-auth-for-ui",
  		"homepage": "https://github.com/Pioreactor/pioreactor-basic-auth-for-ui",
  		"description": "Adding basic auth to the Pioreactor UI."
+	},
+ 	{
+ 		"name": "temperature-expansion-kit-plugin",
+ 		"homepage": "https://github.com/Pioreactor/temperature-expansion-kit-plugin",
+ 		"description": "Expand the Pioreactor's temperature performance. Additional hardware kit required!"
 	}
 ]
