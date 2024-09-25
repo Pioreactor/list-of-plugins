@@ -11,6 +11,12 @@
         "description": "Publish logs to your Slack workspace."
     },
     {
+        "name": "pioreactor-logs2discord",
+        "author": "Pioreactor",
+        "homepage": "https://github.com/Pioreactor/pioreactor-logs2discord",
+        "description": "Publish logs to your Discord server."
+    },
+    {
         "name": "pioreactor-relay-plugin",
         "author": "Pioreactor",
         "homepage": "https://github.com/camdavidsonpilon/pioreactor-relay-plugin",
