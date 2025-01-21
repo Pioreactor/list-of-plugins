@@ -53,6 +53,12 @@
         "description": "Adding basic auth to the Pioreactor UI."
     },
     {
+        "name": "pioreactor-calibration-shrinkage",
+        "author": "Pioreactor",
+        "homepage": "https://github.com/Pioreactor/pioreactor-calibration-shrinkage",
+        "description": "Shrink multiple calibrations across workers in a Pioreactor cluster using multi-level modelling: better inference for free!"
+    },
+    {
         "name": "temperature-expansion-kit-plugin",
         "author": "Pioreactor",
         "homepage": "https://github.com/Pioreactor/temperature-expansion-kit-plugin",
