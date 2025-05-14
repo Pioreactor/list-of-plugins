@@ -63,5 +63,11 @@
         "author": "Pioreactor",
         "homepage": "https://github.com/Pioreactor/temperature-expansion-kit-plugin",
         "description": "Expand the Pioreactor's temperature performance. Additional hardware kit required!"
+    },
+    {
+        "name": "laerke-eu-pressure-reading-plugin",
+        "author": "Laerke.eu",
+        "homepage": "https://www.laerke.eu",
+        "description": "A pressure sensor system for online tracking and analysis of gas formation or consumption in vials."
     }
 ]
