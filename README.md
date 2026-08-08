@@ -6,3 +6,4 @@ schema:
  - name: the distribution name
  - homepage: a dedicated url
  - description: should closely match what's in the packages setup.py's `description`.
+ - latest_version_available: the latest version published on PyPI

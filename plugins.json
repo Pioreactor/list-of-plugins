@@ -1,79 +1,93 @@
-[{
+[
+    {
         "name": "pioreactor-air-bubbler",
         "author": "Pioreactor",
         "homepage": "https://github.com/Pioreactor/pioreactor-air-bubbler",
-        "description": "Add an air-pump / bubbler to your Pioreactor. This pump can run continuously, or if OD reading is running, will stop during a reading."
+        "description": "Add an air-pump / bubbler to your Pioreactor. This pump can run continuously, or if OD reading is running, will stop during a reading.",
+        "latest_version_available": "0.11.0"
     },
     {
         "name": "pioreactor-precision-temperature-plugin",
         "author": "Pioreactor",
         "homepage": "https://github.com/pioreactor/pioreactor-precision-temperature-plugin",
-        "description": "Use FIR sensing to predict liquid temperature within ±0.2 °C, and get +30 °C temperatures. Additional hardware kit required!"
+        "description": "Use FIR sensing to predict liquid temperature within ±0.2 °C, and get +30 °C temperatures. Additional hardware kit required!",
+        "latest_version_available": "0.2.11"
     },
     {
         "name": "pioreactor-logs2slack",
         "author": "Pioreactor",
         "homepage": "https://github.com/Pioreactor/pioreactor-logs2slack",
-        "description": "Publish logs to your Slack workspace."
+        "description": "Publish logs to your Slack workspace.",
+        "latest_version_available": "0.5.0"
     },
     {
         "name": "pioreactor-logs2discord",
         "author": "Pioreactor",
         "homepage": "https://github.com/Pioreactor/pioreactor-logs2discord",
-        "description": "Publish logs to your Discord server."
+        "description": "Publish logs to your Discord server.",
+        "latest_version_available": "0.3.0"
     },
     {
         "name": "pioreactor-relay-plugin",
         "author": "Pioreactor",
         "homepage": "https://github.com/camdavidsonpilon/pioreactor-relay-plugin",
-        "description": "Turn your hardware add-on (light source, pinch-valve, pump, etc.) on or off from the UI or programmatically."
+        "description": "Turn your hardware add-on (light source, pinch-valve, pump, etc.) on or off from the UI or programmatically.",
+        "latest_version_available": "0.8.1"
     },
     {
         "name": "led-calibration-plugin",
         "author": "Pioreactor",
         "homepage": "https://github.com/pioreactor/pioreactor-led-calibration-plugin",
-        "description": "Calibrate your LEDs using an external light probe. Also comes with an Day/Night LED automation to use your new calibrated LEDs."
+        "description": "Calibrate your LEDs using an external light probe. Also comes with an Day/Night LED automation to use your new calibrated LEDs.",
+        "latest_version_available": "2.0.0"
     },
     {
         "name": "co2-reading-plugin",
         "author": "Pioreactor",
         "homepage": "https://github.com/Pioreactor/co2-reading-plugin",
-        "description": "Retrieve CO2, temperature, and humidity readings from an attached Adafruit SCD30 or SCD40/SCD41 sensor."
+        "description": "Retrieve CO2, temperature, and humidity readings from an attached Adafruit SCD30 or SCD40/SCD41 sensor.",
+        "latest_version_available": "0.3.0"
     },
     {
         "name": "spectrometer-reading-plugin",
         "author": "Pioreactor",
         "homepage": "https://github.com/Pioreactor/spectrometer-reading-plugin",
-        "description": "Retrieve 415nm, 445nm, 480nm, 515nm, 555nm, 590nm, 630nm, and 680nm readings from an attached Adafruit AS7341 sensor."
+        "description": "Retrieve 415nm, 445nm, 480nm, 515nm, 555nm, 590nm, 630nm, and 680nm readings from an attached Adafruit AS7341 sensor.",
+        "latest_version_available": "0.4.0"
     },
     {
         "name": "pioreactor-oled-status-display-plugin",
         "author": "Pioreactor",
         "homepage": "https://github.com/Pioreactor/pioreactor-oled-status-display-plugin",
-        "description": "Display growth rate, normalized OD, temperature and more for each Pioreactor using the Adafruit StemmaQT OLED display."
+        "description": "Display growth rate, normalized OD, temperature and more for each Pioreactor using the Adafruit StemmaQT OLED display.",
+        "latest_version_available": "0.2.0"
     },
     {
         "name": "pioreactor-basic-auth-for-ui",
         "author": "Pioreactor",
         "homepage": "https://github.com/Pioreactor/pioreactor-basic-auth-for-ui",
-        "description": "Adding basic auth to the Pioreactor UI."
+        "description": "Adding basic auth to the Pioreactor UI.",
+        "latest_version_available": "0.1.0"
     },
     {
         "name": "pioreactor-calibration-shrinkage",
         "author": "Pioreactor",
         "homepage": "https://github.com/Pioreactor/pioreactor-calibration-shrinkage",
-        "description": "Shrink multiple calibrations across workers in a Pioreactor cluster using multi-level modelling: better inference for free!"
+        "description": "Shrink multiple calibrations across workers in a Pioreactor cluster using multi-level modelling: better inference for free!",
+        "latest_version_available": "1.1.0"
     },
     {
         "name": "temperature-expansion-kit-plugin",
         "author": "Pioreactor",
         "homepage": "https://github.com/Pioreactor/temperature-expansion-kit-plugin",
-        "description": "Expand the Pioreactor's temperature performance. Additional hardware kit required!"
+        "description": "Expand the Pioreactor's temperature performance. Additional hardware kit required!",
+        "latest_version_available": "0.4.0"
     },
     {
         "name": "laerke-eu-pressure-reading-plugin",
         "author": "Laerke.eu",
         "homepage": "https://www.laerke.eu",
-        "description": "A pressure sensor system for online tracking and analysis of gas formation or consumption in vials."
+        "description": "A pressure sensor system for online tracking and analysis of gas formation or consumption in vials.",
+        "latest_version_available": "1.0.2"
     }
 ]
