@@ -4,7 +4,7 @@
         "author": "Pioreactor",
         "homepage": "https://github.com/Pioreactor/pioreactor-air-bubbler",
         "description": "Add an air-pump / bubbler to your Pioreactor. This pump can run continuously, or if OD reading is running, will stop during a reading.",
-        "latest_version_available": "0.12.1"
+        "latest_version_available": "0.13.0"
     },
     {
         "name": "pioreactor-precision-temperature-plugin",
