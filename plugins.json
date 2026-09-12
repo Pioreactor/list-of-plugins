@@ -60,7 +60,7 @@
         "author": "Pioreactor",
         "homepage": "https://github.com/Pioreactor/pioreactor-oled-status-display-plugin",
         "description": "Display growth rate, normalized OD, temperature and more for each Pioreactor using the Adafruit StemmaQT OLED display.",
-        "latest_version_available": "0.2.0"
+        "latest_version_available": "0.2.1"
     },
     {
         "name": "pioreactor-basic-auth-for-ui",
