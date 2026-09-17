@@ -11,7 +11,7 @@
         "author": "Pioreactor",
         "homepage": "https://github.com/pioreactor/pioreactor-precision-temperature-plugin",
         "description": "Use FIR sensing to predict liquid temperature within ±0.2 °C, and get +30 °C temperatures. Additional hardware kit required!",
-        "latest_version_available": "0.2.11"
+        "latest_version_available": "0.2.12"
     },
     {
         "name": "pioreactor-logs2slack",
